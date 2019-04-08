@@ -41,6 +41,12 @@ even listener to the input field for this.
 
 Clear the input field on keyup so that no letters accumulate in it.
 
+## Double Bonus
+
+Add an event listener to each letter with the type `mouseover`, that sets the class for that div to `active`.
+
+You should not have to add each event listener separately! Can you loop through all the letters?
+
 ## Super Mega Bonus
 
 Make the browser speak the key out loud as you type. You'll have to do some
